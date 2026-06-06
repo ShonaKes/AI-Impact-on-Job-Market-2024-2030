@@ -74,7 +74,7 @@ https://colab.research.google.com/drive/143a2EJSnuqQ1ch4dwsDj8Gtft8yehYjG?usp=sh
 
 ### Average Job Growth by AI Impact Level
 
-[![AI Impact vs Growth](images/ai_impact_vs_growth.png)](https://colab.research.google.com/drive/143a2EJSnuqQ1ch4dwsDj8Gtft8yehYjG#scrollTo=4jlLMUrEerJH&fullscreenOutput=true)
+!https://colab.research.google.com/drive/143a2EJSnuqQ1ch4dwsDj8Gtft8yehYjG#scrollTo=4jlLMUrEerJH&fullscreenOutput=true
 
 ### Industry-Specific Effects of AI
 
