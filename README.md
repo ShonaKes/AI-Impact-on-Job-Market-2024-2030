@@ -70,7 +70,7 @@ https://colab.research.google.com/drive/143a2EJSnuqQ1ch4dwsDj8Gtft8yehYjG?usp=sh
 
 ### Automation Risk vs Job Growth
 
-![Automation Risk vs Job Growth](images/automation_risk_vs_growth.png)
+![Automation Risk vs Job Growth](automation_risk_vs_growth.jpg)
 
 ### Average Job Growth by AI Impact Level
 
