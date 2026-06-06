@@ -68,7 +68,7 @@ AI does not appear to affect all industries equally. The analysis suggests that 
 
 ### Automation Risk vs Job Growth
 
-![Automation Risk vs Job Growth](images/automation_risk_vs_growth.png)
+![Automation Risk vs Job Growth][(https://colab.research.google.com/drive/143a2EJSnuqQ1ch4dwsDj8Gtft8yehYjG#scrollTo=tIgdoOOcdkMt&fullscreenOutput=true)
 
 ### Average Job Growth by AI Impact Level
 
