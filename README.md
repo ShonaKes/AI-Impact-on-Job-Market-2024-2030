@@ -53,12 +53,14 @@ Dataset source: Kaggle
 
 ## Key Findings
 
-1.	Automation Risk does not predict employment growth (r = 0.003).
-2.	High AI Impact occupations experience substantially greater projected growth than Low AI Impact occupations.
-3.	AI effects vary significantly by industry as certain sectors experience strong workforce expansion.
-4.	AI-related work continues to expand - IT, Healthcare, and Entertainment appear best positioned for AI-driven expansion. IT shows the highest projected growth.
-5.	Some occupations face declining demand - Transportation appears most vulnerable to contraction but this is gradually expanding.
-6.	Salary levels remain consistent regardless of AI exposure. 
+1.	Automation Risk shows virtually no relationship with projected employment growth (r = 0.003).
+2.	Occupations classified as High AI Impact generally demonstrate stronger projected growth than Low AI Impact occupations.
+3.	AI's influence on employment varies substantially across industries.
+4.	IT, Healthcare, and Entertainment show the strongest projected workforce expansion.
+5.	Transportation demonstrates the weakest projected growth and may face greater disruption.
+6.	The findings suggest that AI is reshaping workforce demand rather than uniformly reducing employment opportunities.
+7.	Understanding which roles and skills benefit from this shift is becoming increasingly important for workers and organizations.
+
 
 ## Main Insight
 
@@ -92,7 +94,7 @@ https://colab.research.google.com/drive/143a2EJSnuqQ1ch4dwsDj8Gtft8yehYjG?usp=sh
 - Job Status labels were inconsistent with calculated growth metrics.
 
 - ## Conclusion
-- The analysis suggests that AI is not simply eliminating jobs. Instead, it is redistributing demand toward roles and industries that can leverage AI effectively.
+The findings suggest that AI is not uniformly reducing employment opportunities. Instead, workforce demand appears to be shifting toward industries and occupations positioned to leverage AI technologies effectively.
 
 ## Project Files
 
