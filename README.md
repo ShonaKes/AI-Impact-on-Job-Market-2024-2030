@@ -15,7 +15,7 @@ The analysis investigates whether automation risk, AI impact level, salary, and 
 
 ## Dataset
 
-The dataset contains approximately 30,000 occupation records with variables including:
+he dataset used for this analysis is the AI Impact on the Job Market (2024–2030) dataset, sourced from Kaggle. It comprises approximately 30,000 observations and contains occupation-level data across multiple industries:
 
 - Industry
 - Job Status
@@ -53,12 +53,12 @@ Dataset source: Kaggle
 
 ## Key Findings
 
-1. Automation Risk does not meaningfully predict projected job growth.
-2. High AI Impact occupations show substantially higher projected growth than Low AI Impact occupations.
-3. AI exposure does not correspond to higher salaries.
-4. AI effects vary significantly by industry.
-5. IT, Healthcare, and Entertainment appear best positioned for AI-driven expansion.
-6. Transportation appears most vulnerable to contraction.
+1.	Automation Risk does not predict employment growth (r = 0.003).
+2.	High AI Impact occupations experience substantially greater projected growth than Low AI Impact occupations.
+3.	AI effects vary significantly by industry as certain sectors experience strong workforce expansion.
+4.	AI-related work continues to expand - IT, Healthcare, and Entertainment appear best positioned for AI-driven expansion. IT shows the highest projected growth.
+5.	Some occupations face declining demand - Transportation appears most vulnerable to contraction but this is gradually expanding.
+6.	Salary levels remain consistent regardless of AI exposure. 
 
 ## Main Insight
 
@@ -90,6 +90,9 @@ https://colab.research.google.com/drive/143a2EJSnuqQ1ch4dwsDj8Gtft8yehYjG?usp=sh
 - Several variables exhibit near-zero correlations.
 - Findings should be interpreted as patterns within this dataset rather than real-world labor market forecasts.
 - Job Status labels were inconsistent with calculated growth metrics.
+
+- ## Conclusion
+- The analysis suggests that AI is not simply eliminating jobs. Instead, it is redistributing demand toward roles and industries that can leverage AI effectively.
 
 ## Project Files
 
