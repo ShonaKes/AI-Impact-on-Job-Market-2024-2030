@@ -64,6 +64,8 @@ Dataset source: Kaggle
 
 AI does not appear to affect all industries equally. The analysis suggests that industry context matters more than automation risk alone when evaluating projected workforce transformation.
 
+https://colab.research.google.com/drive/143a2EJSnuqQ1ch4dwsDj8Gtft8yehYjG?usp=sharing
+
 ## Visual Highlights
 
 ### Automation Risk vs Job Growth
@@ -72,7 +74,7 @@ AI does not appear to affect all industries equally. The analysis suggests that 
 
 ### Average Job Growth by AI Impact Level
 
-![AI Impact vs Growth](images/ai_impact_vs_growth.png)
+[![AI Impact vs Growth](images/ai_impact_vs_growth.png)](https://colab.research.google.com/drive/143a2EJSnuqQ1ch4dwsDj8Gtft8yehYjG#scrollTo=4jlLMUrEerJH&fullscreenOutput=true)
 
 ### Industry-Specific Effects of AI
 
