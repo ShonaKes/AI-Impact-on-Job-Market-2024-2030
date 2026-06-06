@@ -70,15 +70,15 @@ https://colab.research.google.com/drive/143a2EJSnuqQ1ch4dwsDj8Gtft8yehYjG?usp=sh
 
 ### Automation Risk vs Job Growth
 
-!https://colab.research.google.com/drive/143a2EJSnuqQ1ch4dwsDj8Gtft8yehYjG#scrollTo=tIgdoOOcdkMt&fullscreenOutput=true
+![Automation Risk vs Job Growth](images/automation_risk_vs_growth.png)
 
 ### Average Job Growth by AI Impact Level
 
-!https://colab.research.google.com/drive/143a2EJSnuqQ1ch4dwsDj8Gtft8yehYjG#scrollTo=4jlLMUrEerJH&fullscreenOutput=true
+![AI Impacted Job Growth](AI_impact_vs_growth.jpg)
 
 ### Industry-Specific Effects of AI
 
-!https://colab.research.google.com/drive/143a2EJSnuqQ1ch4dwsDj8Gtft8yehYjG#scrollTo=7_KiN8Z4pN3J&fullscreenOutput=true
+![Effects of AI in Industry](Industry_growth_rate.jpg)
 
 ### Salary by AI Impact Level
 
